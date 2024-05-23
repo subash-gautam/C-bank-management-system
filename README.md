@@ -1,1 +1,1 @@
-# C-programming-project-Bank-Management-System-
+# C programming project ( Bank Management System )
